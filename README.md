@@ -10,7 +10,7 @@
 
 ## Features
 
-1. Here Different Types of Cryptography Algorithms are demostrated for better understanding
+1. Here Different Types of Cryptography Algorithms are demonstrated for better understanding
 2. Algorithms used :-
    1. RSA Algorithm
    2. Different Typed of Hashing Algo. [SHA, MD5]
