@@ -28,7 +28,7 @@ After installation, make it Run:
 
 And if you want to use it or host it then build it:
 
-> `npm build`
+> `npm run build`
 
 ### Licence
 
