@@ -6,7 +6,7 @@ const Home = (props) => {
       <section className="mt-5">
         <div className="container mt-5">
           <h2 className="text-center mt-5">
-            Encryption/Decrypting algorithms&nbsp;
+            Cryptography Algorithms&nbsp;
             <br />
             Demostration
           </h2>
@@ -16,7 +16,7 @@ const Home = (props) => {
           >
             <>
               This web app is developed to demonstrate&nbsp;different types of
-              Key based&nbsp;Encryption/Decrypting algorithms
+              Key based&nbsp;Cryptograpy algorithms
             </>
             <br />
           </p>
